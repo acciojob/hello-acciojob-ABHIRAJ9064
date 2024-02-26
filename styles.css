@@ -1,2 +1,10 @@
-
-/* Your CSS Code here. */
+.main{
+width: 150px;
+height: 150px;
+backgroung-color: black (#000000);
+}
+.p{
+text-color: white (#ffffff); 
+margin-left: 32px;
+paddind: 10px;
+}
